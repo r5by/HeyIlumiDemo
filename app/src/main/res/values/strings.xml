@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">HeyIlumi</string>
+    <string name="unpaired_ilumi">Nearby Ilumis</string>
+    <string name="paired_ilumi">Your Ilumis</string>
+    <string name="pref_key">ilumi</string>
+</resources>
